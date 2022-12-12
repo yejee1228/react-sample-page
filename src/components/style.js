@@ -1,12 +1,5 @@
 import styled from 'styled-components'
 
-export const MainWrap = styled.div`
-  width: 1200px;
-  height: 100%;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-`
 export const HeaderWrap = styled.div`
   width: 100%;
   height: 50px;

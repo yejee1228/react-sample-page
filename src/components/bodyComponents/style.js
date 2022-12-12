@@ -6,7 +6,7 @@ const Wrapper = styled.div`
   position: relative;
   left: 50%;
   transform: translate(-50%);
-  border-radius: 50px;
+  border-radius: 15px;
 `
 export const Pages = styled(Wrapper)`
   height: 280px;
@@ -44,7 +44,7 @@ export const PageCard = styled.div`
 `
 
 export const Contents = styled(Wrapper)`
-  height: 180px;
+  height: 100px;
   background-color: #fde1ab;
   display: flex;
   flex-direction: column;
@@ -56,7 +56,7 @@ export const Contents = styled(Wrapper)`
   }
 `
 export const ContentCard = styled.div`
-  width: 510px;
+  width: 32%;
   padding: 20px;
   position: relative;
   border-radius: 25px;

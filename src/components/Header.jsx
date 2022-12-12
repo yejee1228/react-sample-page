@@ -1,12 +1,12 @@
 import React from 'react'
 import { HeaderWrap } from './style'
 
-const Header = () => {
+const index = () => {
   return (
     <HeaderWrap>
-      <p>Ict 서비스 본부</p>
+      <p>ICT 서비스 본부</p>
     </HeaderWrap>
   )
 }
 
-export default Header
+export default index

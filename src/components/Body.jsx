@@ -1,5 +1,5 @@
 import React from 'react'
-import { Pages, Contents, Sites } from './Header/index'
+import { Pages, Contents, Sites } from './bodyComponents'
 import { BodyWrap } from './style'
 
 const index = () => {

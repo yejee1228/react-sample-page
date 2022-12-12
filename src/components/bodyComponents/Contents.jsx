@@ -8,8 +8,6 @@ const index = () => {
       <div>
         <ContentCard />
         <ContentCard />
-      </div>
-      <div>
         <ContentCard />
       </div>
     </Contents>
